@@ -1,8 +1,13 @@
 # Dive-into-Deep-Learning
 - 《动手学深度学习》在线电子书：http://zh.gluon.ai/
 - 《动手学深度学习》开源仓库：https://github.com/ShusenTang/Dive-into-DL-PyTorch
+- PyTorch中文文档：https://pytorch-cn.readthedocs.io/zh/stable/
+- 《南瓜书》https://github.com/datawhalechina/pumpkin-book
 - ElitesAI·动手学深度学习PyTorch版：https://www.boyuai.com/elites/course/cZu18YmweLv10OeV
 - 和鲸Kesci课件Notebook：https://www.kesci.com/org/boyuai/workspace/project
+- 《人工智能数学基础》https://www.boyuai.com/elites/course/D91JM0bv72Zop1D3
+- 《ACM班机器学习》https://www.boyuai.com/elites/course/x3fyYxaRhVWJxGSI
+- 常见问题汇总：https://shimo.im/docs/86tr6VvQVRdvkX8r
 
 ### Task1: 线性回归；Softmax与分类模型、多层感知机
 
